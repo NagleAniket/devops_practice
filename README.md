@@ -1,2 +1,1 @@
-# devops_practice
-devops_practice
+Repo Created for DevOps practice
